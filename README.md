@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 
-Module 1 challenge is to look at Horiseon code and refactor it to be optimize and fix a few mistakes that were made in the code.
+The Module 1 challenge is to look at the Horiseon code, refactor it to be optimized, and fix a few mistakes that were made in the code.
 
 ### Live URL
 
@@ -12,7 +12,7 @@ https://drew990.github.io/
 
 ## Description
 
-Horiseon is a website that offers optimization to your website for search engines. For better ranking and to bring attraction to business's websites. Horiseon has a problem of their own though where their code needs to be refactored and optimized to bring it up to accessibility standards, a structure semantic HTML elements, a concise descriptive title, and many more. Below, we'll be talking about those changes.
+Horiseon is a service that offers optimization to your website for search engines in order to get better ranking and to bring attraction to business's websites using SEO. Horiseon has a problem of their own though, where their code needs to be refactored and optimized to bring it up to accessibility standards, a structured semantic HTML elements, a concise descriptive title, and much more. Below, we'll be talking about those changes.
 
 # Changes to index.html and style.css
 
