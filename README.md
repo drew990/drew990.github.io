@@ -2,6 +2,14 @@
 
 Module 1 challenge is to look at Horiseon code and refactor it to be optimize and fix a few mistakes that were made in the code.
 
+### Live URL
+
+https://drew990.github.io/
+
+![Screen Shot](https://drive.google.com/file/d/1q9yvLtLBr-E-i7HxrJfotschDO8-7nR7/preview)
+
+#
+
 ## Description
 
 Horiseon is a website that offers optimization your website for search engines. For better ranking and bring attraction to businesses websites. Horiseon has a problem of their own though where their code needs to be refactored and optimize to bring it up to accessibility standards, a structure semantic HTML elements, a concise descriptive title, and many more. Below, we'll be talking about those changes.
