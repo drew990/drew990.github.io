@@ -4,7 +4,7 @@ The Module 1 challenge is to look at the Horiseon code, refactor it to be optimi
 
 ### Live URL
 
-https://drew990.github.io/
+https://drew990.github.io/horiseon.github.io/
 
 ![Screen Shot](https://drive.google.com/file/d/1q9yvLtLBr-E-i7HxrJfotschDO8-7nR7/view?usp=sharing)
 
